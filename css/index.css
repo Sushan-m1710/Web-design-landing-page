@@ -2,7 +2,7 @@ body{
     font-family: Roboto;
     margin-top: 20px;
     margin-left: 80px;
-    background-image: url(/08-challenge/images/backcover.svg);
+    background-image: url(/images/backcover.svg);
     background-position: bottom 30px  right ;
     background-repeat: no-repeat;
 }
